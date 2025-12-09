@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Brutalist | FRAMES</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="movie-title">The Brutalist</h1>
+    </header>
+    <main>
+        <div id="frame-grid" class="frame-grid">
+            <!-- Frames will be injected here -->
+        </div>
+    </main>
+
+    <!-- Lightbox for expanded view -->
+    <div id="lightbox" class="lightbox">
+        <button class="lightbox-close" id="lightbox-close">&times;</button>
+        <button class="lightbox-nav lightbox-prev" id="lightbox-prev">&#8249;</button>
+        <button class="lightbox-nav lightbox-next" id="lightbox-next">&#8250;</button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="Frame">
+            <div class="lightbox-info">
+                <span id="lightbox-frame-num">Frame 1</span>
+                <span id="lightbox-timecode">00:00:00</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
+
