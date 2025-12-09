@@ -51,15 +51,6 @@ async def the_brutalist():
             return f.read()
     return "<h1>Not found</h1>"
 
-# Aguirre page
-@app.get("/aguirre", response_class=HTMLResponse)
-async def aguirre():
-    html_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "static", "aguirre.html")
-    if os.path.exists(html_file):
-        with open(html_file, "r") as f:
-            return f.read()
-    return "<h1>Not found</h1>"
-
 # On the Silver Globe page
 @app.get("/silver-globe", response_class=HTMLResponse)
 async def silver_globe():
