@@ -60,6 +60,15 @@ async def aguirre():
             return f.read()
     return "<h1>Not found</h1>"
 
+# On the Silver Globe page
+@app.get("/silver-globe", response_class=HTMLResponse)
+async def silver_globe():
+    html_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "static", "silver-globe.html")
+    if os.path.exists(html_file):
+        with open(html_file, "r") as f:
+            return f.read()
+    return "<h1>Not found</h1>"
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

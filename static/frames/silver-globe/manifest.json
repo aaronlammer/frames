@@ -1,0 +1,1505 @@
+{
+  "movie_name": "On the Silver Globe",
+  "total_frames": 187,
+  "shot_frames": 187,
+  "subtitle_frames": 0,
+  "extraction_type": "shots_and_ocr_subtitles",
+  "frames": [
+    {
+      "number": 1,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00001.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00001.jpg",
+      "timecode": "00:00:00.000",
+      "timestamp": 0.0,
+      "type": "shot"
+    },
+    {
+      "number": 2,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00002.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00002.jpg",
+      "timecode": "00:00:12.874",
+      "timestamp": 12.874333,
+      "type": "shot"
+    },
+    {
+      "number": 3,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00003.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00003.jpg",
+      "timecode": "00:00:50.874",
+      "timestamp": 50.874333,
+      "type": "shot"
+    },
+    {
+      "number": 4,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00004.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00004.jpg",
+      "timecode": "00:01:52.165",
+      "timestamp": 112.166,
+      "type": "shot"
+    },
+    {
+      "number": 5,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00005.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00005.jpg",
+      "timecode": "00:02:32.082",
+      "timestamp": 152.082667,
+      "type": "shot"
+    },
+    {
+      "number": 6,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00006.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00006.jpg",
+      "timecode": "00:02:50.249",
+      "timestamp": 170.249333,
+      "type": "shot"
+    },
+    {
+      "number": 7,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00007.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00007.jpg",
+      "timecode": "00:03:03.665",
+      "timestamp": 183.666,
+      "type": "shot"
+    },
+    {
+      "number": 8,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00008.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00008.jpg",
+      "timecode": "00:03:31.749",
+      "timestamp": 211.749333,
+      "type": "shot"
+    },
+    {
+      "number": 9,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00009.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00009.jpg",
+      "timecode": "00:04:05.915",
+      "timestamp": 245.916,
+      "type": "shot"
+    },
+    {
+      "number": 10,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00010.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00010.jpg",
+      "timecode": "00:06:19.040",
+      "timestamp": 379.041,
+      "type": "shot"
+    },
+    {
+      "number": 11,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00011.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00011.jpg",
+      "timecode": "00:08:17.790",
+      "timestamp": 497.791,
+      "type": "shot"
+    },
+    {
+      "number": 12,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00012.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00012.jpg",
+      "timecode": "00:09:49.499",
+      "timestamp": 589.499333,
+      "type": "shot"
+    },
+    {
+      "number": 13,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00013.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00013.jpg",
+      "timecode": "00:10:00.999",
+      "timestamp": 600.999333,
+      "type": "shot"
+    },
+    {
+      "number": 14,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00014.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00014.jpg",
+      "timecode": "00:10:04.999",
+      "timestamp": 604.999333,
+      "type": "shot"
+    },
+    {
+      "number": 15,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00015.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00015.jpg",
+      "timecode": "00:10:08.541",
+      "timestamp": 608.541,
+      "type": "shot"
+    },
+    {
+      "number": 16,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00016.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00016.jpg",
+      "timecode": "00:10:45.249",
+      "timestamp": 645.249333,
+      "type": "shot"
+    },
+    {
+      "number": 17,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00017.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00017.jpg",
+      "timecode": "00:11:11.749",
+      "timestamp": 671.749333,
+      "type": "shot"
+    },
+    {
+      "number": 18,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00018.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00018.jpg",
+      "timecode": "00:11:36.249",
+      "timestamp": 696.249333,
+      "type": "shot"
+    },
+    {
+      "number": 19,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00019.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00019.jpg",
+      "timecode": "00:12:14.707",
+      "timestamp": 734.707667,
+      "type": "shot"
+    },
+    {
+      "number": 20,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00020.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00020.jpg",
+      "timecode": "00:12:21.957",
+      "timestamp": 741.957667,
+      "type": "shot"
+    },
+    {
+      "number": 21,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00021.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00021.jpg",
+      "timecode": "00:12:45.249",
+      "timestamp": 765.249333,
+      "type": "shot"
+    },
+    {
+      "number": 22,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00022.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00022.jpg",
+      "timecode": "00:12:47.582",
+      "timestamp": 767.582667,
+      "type": "shot"
+    },
+    {
+      "number": 23,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00023.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00023.jpg",
+      "timecode": "00:12:49.332",
+      "timestamp": 769.332667,
+      "type": "shot"
+    },
+    {
+      "number": 24,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00024.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00024.jpg",
+      "timecode": "00:12:55.541",
+      "timestamp": 775.541,
+      "type": "shot"
+    },
+    {
+      "number": 25,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00025.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00025.jpg",
+      "timecode": "00:13:02.749",
+      "timestamp": 782.749333,
+      "type": "shot"
+    },
+    {
+      "number": 26,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00026.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00026.jpg",
+      "timecode": "00:13:10.582",
+      "timestamp": 790.582667,
+      "type": "shot"
+    },
+    {
+      "number": 27,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00027.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00027.jpg",
+      "timecode": "00:13:14.374",
+      "timestamp": 794.374333,
+      "type": "shot"
+    },
+    {
+      "number": 28,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00028.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00028.jpg",
+      "timecode": "00:14:04.332",
+      "timestamp": 844.332667,
+      "type": "shot"
+    },
+    {
+      "number": 29,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00029.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00029.jpg",
+      "timecode": "00:15:32.249",
+      "timestamp": 932.249333,
+      "type": "shot"
+    },
+    {
+      "number": 30,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00030.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00030.jpg",
+      "timecode": "00:15:35.832",
+      "timestamp": 935.832667,
+      "type": "shot"
+    },
+    {
+      "number": 31,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00031.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00031.jpg",
+      "timecode": "00:15:43.124",
+      "timestamp": 943.124333,
+      "type": "shot"
+    },
+    {
+      "number": 32,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00032.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00032.jpg",
+      "timecode": "00:17:31.999",
+      "timestamp": 1051.999333,
+      "type": "shot"
+    },
+    {
+      "number": 33,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00033.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00033.jpg",
+      "timecode": "00:17:57.874",
+      "timestamp": 1077.874333,
+      "type": "shot"
+    },
+    {
+      "number": 34,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00034.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00034.jpg",
+      "timecode": "00:18:00.082",
+      "timestamp": 1080.082667,
+      "type": "shot"
+    },
+    {
+      "number": 35,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00035.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00035.jpg",
+      "timecode": "00:18:02.624",
+      "timestamp": 1082.624333,
+      "type": "shot"
+    },
+    {
+      "number": 36,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00036.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00036.jpg",
+      "timecode": "00:18:33.457",
+      "timestamp": 1113.457667,
+      "type": "shot"
+    },
+    {
+      "number": 37,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00037.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00037.jpg",
+      "timecode": "00:18:47.249",
+      "timestamp": 1127.249333,
+      "type": "shot"
+    },
+    {
+      "number": 38,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00038.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00038.jpg",
+      "timecode": "00:18:51.999",
+      "timestamp": 1131.999333,
+      "type": "shot"
+    },
+    {
+      "number": 39,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00039.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00039.jpg",
+      "timecode": "00:18:56.207",
+      "timestamp": 1136.207667,
+      "type": "shot"
+    },
+    {
+      "number": 40,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00040.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00040.jpg",
+      "timecode": "00:19:12.999",
+      "timestamp": 1152.999333,
+      "type": "shot"
+    },
+    {
+      "number": 41,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00041.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00041.jpg",
+      "timecode": "00:19:21.957",
+      "timestamp": 1161.957667,
+      "type": "shot"
+    },
+    {
+      "number": 42,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00042.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00042.jpg",
+      "timecode": "00:19:34.457",
+      "timestamp": 1174.457667,
+      "type": "shot"
+    },
+    {
+      "number": 43,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00043.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00043.jpg",
+      "timecode": "00:19:41.999",
+      "timestamp": 1181.999333,
+      "type": "shot"
+    },
+    {
+      "number": 44,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00044.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00044.jpg",
+      "timecode": "00:20:20.624",
+      "timestamp": 1220.624333,
+      "type": "shot"
+    },
+    {
+      "number": 45,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00045.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00045.jpg",
+      "timecode": "00:23:25.665",
+      "timestamp": 1405.666,
+      "type": "shot"
+    },
+    {
+      "number": 46,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00046.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00046.jpg",
+      "timecode": "00:23:30.832",
+      "timestamp": 1410.832667,
+      "type": "shot"
+    },
+    {
+      "number": 47,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00047.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00047.jpg",
+      "timecode": "00:24:09.540",
+      "timestamp": 1449.541,
+      "type": "shot"
+    },
+    {
+      "number": 48,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00048.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00048.jpg",
+      "timecode": "00:24:16.999",
+      "timestamp": 1456.999333,
+      "type": "shot"
+    },
+    {
+      "number": 49,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00049.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00049.jpg",
+      "timecode": "00:24:24.790",
+      "timestamp": 1464.791,
+      "type": "shot"
+    },
+    {
+      "number": 50,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00050.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00050.jpg",
+      "timecode": "00:26:01.665",
+      "timestamp": 1561.666,
+      "type": "shot"
+    },
+    {
+      "number": 51,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00051.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00051.jpg",
+      "timecode": "00:26:34.207",
+      "timestamp": 1594.207667,
+      "type": "shot"
+    },
+    {
+      "number": 52,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00052.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00052.jpg",
+      "timecode": "00:26:37.207",
+      "timestamp": 1597.207667,
+      "type": "shot"
+    },
+    {
+      "number": 53,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00053.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00053.jpg",
+      "timecode": "00:27:42.207",
+      "timestamp": 1662.207667,
+      "type": "shot"
+    },
+    {
+      "number": 54,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00054.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00054.jpg",
+      "timecode": "00:29:52.415",
+      "timestamp": 1792.416,
+      "type": "shot"
+    },
+    {
+      "number": 55,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00055.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00055.jpg",
+      "timecode": "00:30:53.165",
+      "timestamp": 1853.166,
+      "type": "shot"
+    },
+    {
+      "number": 56,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00056.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00056.jpg",
+      "timecode": "00:32:34.999",
+      "timestamp": 1954.999333,
+      "type": "shot"
+    },
+    {
+      "number": 57,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00057.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00057.jpg",
+      "timecode": "00:34:49.832",
+      "timestamp": 2089.832667,
+      "type": "shot"
+    },
+    {
+      "number": 58,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00058.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00058.jpg",
+      "timecode": "00:35:21.791",
+      "timestamp": 2121.791,
+      "type": "shot"
+    },
+    {
+      "number": 59,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00059.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00059.jpg",
+      "timecode": "00:35:41.999",
+      "timestamp": 2141.999333,
+      "type": "shot"
+    },
+    {
+      "number": 60,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00060.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00060.jpg",
+      "timecode": "00:37:27.124",
+      "timestamp": 2247.124333,
+      "type": "shot"
+    },
+    {
+      "number": 61,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00061.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00061.jpg",
+      "timecode": "00:37:31.957",
+      "timestamp": 2251.957667,
+      "type": "shot"
+    },
+    {
+      "number": 62,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00062.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00062.jpg",
+      "timecode": "00:37:35.124",
+      "timestamp": 2255.124333,
+      "type": "shot"
+    },
+    {
+      "number": 63,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00063.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00063.jpg",
+      "timecode": "00:37:39.916",
+      "timestamp": 2259.916,
+      "type": "shot"
+    },
+    {
+      "number": 64,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00064.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00064.jpg",
+      "timecode": "00:38:04.416",
+      "timestamp": 2284.416,
+      "type": "shot"
+    },
+    {
+      "number": 65,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00065.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00065.jpg",
+      "timecode": "00:38:42.707",
+      "timestamp": 2322.707667,
+      "type": "shot"
+    },
+    {
+      "number": 66,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00066.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00066.jpg",
+      "timecode": "00:39:10.291",
+      "timestamp": 2350.291,
+      "type": "shot"
+    },
+    {
+      "number": 67,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00067.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00067.jpg",
+      "timecode": "00:39:58.666",
+      "timestamp": 2398.666,
+      "type": "shot"
+    },
+    {
+      "number": 68,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00068.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00068.jpg",
+      "timecode": "00:40:07.624",
+      "timestamp": 2407.624333,
+      "type": "shot"
+    },
+    {
+      "number": 69,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00069.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00069.jpg",
+      "timecode": "00:43:06.207",
+      "timestamp": 2586.207667,
+      "type": "shot"
+    },
+    {
+      "number": 70,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00070.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00070.jpg",
+      "timecode": "00:43:08.707",
+      "timestamp": 2588.707667,
+      "type": "shot"
+    },
+    {
+      "number": 71,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00071.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00071.jpg",
+      "timecode": "00:49:00.624",
+      "timestamp": 2940.624333,
+      "type": "shot"
+    },
+    {
+      "number": 72,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00072.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00072.jpg",
+      "timecode": "00:49:58.582",
+      "timestamp": 2998.582667,
+      "type": "shot"
+    },
+    {
+      "number": 73,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00073.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00073.jpg",
+      "timecode": "00:50:17.082",
+      "timestamp": 3017.082667,
+      "type": "shot"
+    },
+    {
+      "number": 74,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00074.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00074.jpg",
+      "timecode": "00:50:19.582",
+      "timestamp": 3019.582667,
+      "type": "shot"
+    },
+    {
+      "number": 75,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00075.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00075.jpg",
+      "timecode": "00:53:36.374",
+      "timestamp": 3216.374333,
+      "type": "shot"
+    },
+    {
+      "number": 76,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00076.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00076.jpg",
+      "timecode": "00:53:42.791",
+      "timestamp": 3222.791,
+      "type": "shot"
+    },
+    {
+      "number": 77,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00077.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00077.jpg",
+      "timecode": "00:54:58.541",
+      "timestamp": 3298.541,
+      "type": "shot"
+    },
+    {
+      "number": 78,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00078.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00078.jpg",
+      "timecode": "00:55:30.624",
+      "timestamp": 3330.624333,
+      "type": "shot"
+    },
+    {
+      "number": 79,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00079.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00079.jpg",
+      "timecode": "00:55:50.416",
+      "timestamp": 3350.416,
+      "type": "shot"
+    },
+    {
+      "number": 80,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00080.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00080.jpg",
+      "timecode": "00:55:56.707",
+      "timestamp": 3356.707667,
+      "type": "shot"
+    },
+    {
+      "number": 81,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00081.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00081.jpg",
+      "timecode": "00:56:04.499",
+      "timestamp": 3364.499333,
+      "type": "shot"
+    },
+    {
+      "number": 82,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00082.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00082.jpg",
+      "timecode": "00:56:07.624",
+      "timestamp": 3367.624333,
+      "type": "shot"
+    },
+    {
+      "number": 83,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00083.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00083.jpg",
+      "timecode": "00:58:23.082",
+      "timestamp": 3503.082667,
+      "type": "shot"
+    },
+    {
+      "number": 84,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00084.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00084.jpg",
+      "timecode": "00:59:13.999",
+      "timestamp": 3553.999333,
+      "type": "shot"
+    },
+    {
+      "number": 85,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00085.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00085.jpg",
+      "timecode": "00:59:15.999",
+      "timestamp": 3555.999333,
+      "type": "shot"
+    },
+    {
+      "number": 86,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00086.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00086.jpg",
+      "timecode": "01:01:39.041",
+      "timestamp": 3699.041,
+      "type": "shot"
+    },
+    {
+      "number": 87,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00087.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00087.jpg",
+      "timecode": "01:02:31.832",
+      "timestamp": 3751.832667,
+      "type": "shot"
+    },
+    {
+      "number": 88,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00088.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00088.jpg",
+      "timecode": "01:06:42.874",
+      "timestamp": 4002.874333,
+      "type": "shot"
+    },
+    {
+      "number": 89,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00089.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00089.jpg",
+      "timecode": "01:11:32.666",
+      "timestamp": 4292.666,
+      "type": "shot"
+    },
+    {
+      "number": 90,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00090.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00090.jpg",
+      "timecode": "01:13:11.124",
+      "timestamp": 4391.124333,
+      "type": "shot"
+    },
+    {
+      "number": 91,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00091.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00091.jpg",
+      "timecode": "01:13:47.999",
+      "timestamp": 4427.999333,
+      "type": "shot"
+    },
+    {
+      "number": 92,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00092.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00092.jpg",
+      "timecode": "01:14:26.124",
+      "timestamp": 4466.124333,
+      "type": "shot"
+    },
+    {
+      "number": 93,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00093.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00093.jpg",
+      "timecode": "01:14:38.457",
+      "timestamp": 4478.457667,
+      "type": "shot"
+    },
+    {
+      "number": 94,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00094.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00094.jpg",
+      "timecode": "01:15:43.749",
+      "timestamp": 4543.749333,
+      "type": "shot"
+    },
+    {
+      "number": 95,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00095.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00095.jpg",
+      "timecode": "01:19:21.374",
+      "timestamp": 4761.374333,
+      "type": "shot"
+    },
+    {
+      "number": 96,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00096.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00096.jpg",
+      "timecode": "01:19:57.332",
+      "timestamp": 4797.332667,
+      "type": "shot"
+    },
+    {
+      "number": 97,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00097.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00097.jpg",
+      "timecode": "01:24:55.832",
+      "timestamp": 5095.832667,
+      "type": "shot"
+    },
+    {
+      "number": 98,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00098.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00098.jpg",
+      "timecode": "01:25:02.791",
+      "timestamp": 5102.791,
+      "type": "shot"
+    },
+    {
+      "number": 99,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00099.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00099.jpg",
+      "timecode": "01:25:34.416",
+      "timestamp": 5134.416,
+      "type": "shot"
+    },
+    {
+      "number": 100,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00100.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00100.jpg",
+      "timecode": "01:27:50.124",
+      "timestamp": 5270.124333,
+      "type": "shot"
+    },
+    {
+      "number": 101,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00101.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00101.jpg",
+      "timecode": "01:28:08.916",
+      "timestamp": 5288.916,
+      "type": "shot"
+    },
+    {
+      "number": 102,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00102.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00102.jpg",
+      "timecode": "01:28:50.541",
+      "timestamp": 5330.541,
+      "type": "shot"
+    },
+    {
+      "number": 103,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00103.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00103.jpg",
+      "timecode": "01:29:21.624",
+      "timestamp": 5361.624333,
+      "type": "shot"
+    },
+    {
+      "number": 104,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00104.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00104.jpg",
+      "timecode": "01:30:03.457",
+      "timestamp": 5403.457667,
+      "type": "shot"
+    },
+    {
+      "number": 105,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00105.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00105.jpg",
+      "timecode": "01:30:17.832",
+      "timestamp": 5417.832667,
+      "type": "shot"
+    },
+    {
+      "number": 106,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00106.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00106.jpg",
+      "timecode": "01:30:26.749",
+      "timestamp": 5426.749333,
+      "type": "shot"
+    },
+    {
+      "number": 107,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00107.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00107.jpg",
+      "timecode": "01:30:53.124",
+      "timestamp": 5453.124333,
+      "type": "shot"
+    },
+    {
+      "number": 108,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00108.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00108.jpg",
+      "timecode": "01:42:04.749",
+      "timestamp": 6124.749333,
+      "type": "shot"
+    },
+    {
+      "number": 109,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00109.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00109.jpg",
+      "timecode": "01:44:04.124",
+      "timestamp": 6244.124333,
+      "type": "shot"
+    },
+    {
+      "number": 110,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00110.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00110.jpg",
+      "timecode": "01:45:05.707",
+      "timestamp": 6305.707667,
+      "type": "shot"
+    },
+    {
+      "number": 111,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00111.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00111.jpg",
+      "timecode": "01:46:13.749",
+      "timestamp": 6373.749333,
+      "type": "shot"
+    },
+    {
+      "number": 112,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00112.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00112.jpg",
+      "timecode": "01:52:56.332",
+      "timestamp": 6776.332667,
+      "type": "shot"
+    },
+    {
+      "number": 113,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00113.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00113.jpg",
+      "timecode": "01:53:35.624",
+      "timestamp": 6815.624333,
+      "type": "shot"
+    },
+    {
+      "number": 114,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00114.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00114.jpg",
+      "timecode": "01:54:05.249",
+      "timestamp": 6845.249333,
+      "type": "shot"
+    },
+    {
+      "number": 115,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00115.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00115.jpg",
+      "timecode": "01:56:54.124",
+      "timestamp": 7014.124333,
+      "type": "shot"
+    },
+    {
+      "number": 116,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00116.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00116.jpg",
+      "timecode": "01:57:45.874",
+      "timestamp": 7065.874333,
+      "type": "shot"
+    },
+    {
+      "number": 117,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00117.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00117.jpg",
+      "timecode": "01:58:17.207",
+      "timestamp": 7097.207667,
+      "type": "shot"
+    },
+    {
+      "number": 118,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00118.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00118.jpg",
+      "timecode": "01:58:49.749",
+      "timestamp": 7129.749333,
+      "type": "shot"
+    },
+    {
+      "number": 119,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00119.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00119.jpg",
+      "timecode": "01:58:52.666",
+      "timestamp": 7132.666,
+      "type": "shot"
+    },
+    {
+      "number": 120,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00120.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00120.jpg",
+      "timecode": "02:01:40.332",
+      "timestamp": 7300.332667,
+      "type": "shot"
+    },
+    {
+      "number": 121,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00121.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00121.jpg",
+      "timecode": "02:02:29.749",
+      "timestamp": 7349.749333,
+      "type": "shot"
+    },
+    {
+      "number": 122,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00122.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00122.jpg",
+      "timecode": "02:02:52.499",
+      "timestamp": 7372.499333,
+      "type": "shot"
+    },
+    {
+      "number": 123,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00123.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00123.jpg",
+      "timecode": "02:02:55.749",
+      "timestamp": 7375.749333,
+      "type": "shot"
+    },
+    {
+      "number": 124,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00124.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00124.jpg",
+      "timecode": "02:03:43.832",
+      "timestamp": 7423.832667,
+      "type": "shot"
+    },
+    {
+      "number": 125,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00125.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00125.jpg",
+      "timecode": "02:05:35.249",
+      "timestamp": 7535.249333,
+      "type": "shot"
+    },
+    {
+      "number": 126,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00126.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00126.jpg",
+      "timecode": "02:05:54.166",
+      "timestamp": 7554.166,
+      "type": "shot"
+    },
+    {
+      "number": 127,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00127.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00127.jpg",
+      "timecode": "02:07:18.874",
+      "timestamp": 7638.874333,
+      "type": "shot"
+    },
+    {
+      "number": 128,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00128.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00128.jpg",
+      "timecode": "02:07:19.707",
+      "timestamp": 7639.707667,
+      "type": "shot"
+    },
+    {
+      "number": 129,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00129.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00129.jpg",
+      "timecode": "02:07:21.999",
+      "timestamp": 7641.999333,
+      "type": "shot"
+    },
+    {
+      "number": 130,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00130.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00130.jpg",
+      "timecode": "02:07:22.666",
+      "timestamp": 7642.666,
+      "type": "shot"
+    },
+    {
+      "number": 131,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00131.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00131.jpg",
+      "timecode": "02:08:23.249",
+      "timestamp": 7703.249333,
+      "type": "shot"
+    },
+    {
+      "number": 132,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00132.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00132.jpg",
+      "timecode": "02:09:22.457",
+      "timestamp": 7762.457667,
+      "type": "shot"
+    },
+    {
+      "number": 133,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00133.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00133.jpg",
+      "timecode": "02:10:02.749",
+      "timestamp": 7802.749333,
+      "type": "shot"
+    },
+    {
+      "number": 134,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00134.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00134.jpg",
+      "timecode": "02:10:12.082",
+      "timestamp": 7812.082667,
+      "type": "shot"
+    },
+    {
+      "number": 135,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00135.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00135.jpg",
+      "timecode": "02:10:16.999",
+      "timestamp": 7816.999333,
+      "type": "shot"
+    },
+    {
+      "number": 136,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00136.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00136.jpg",
+      "timecode": "02:10:57.624",
+      "timestamp": 7857.624333,
+      "type": "shot"
+    },
+    {
+      "number": 137,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00137.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00137.jpg",
+      "timecode": "02:11:15.332",
+      "timestamp": 7875.332667,
+      "type": "shot"
+    },
+    {
+      "number": 138,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00138.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00138.jpg",
+      "timecode": "02:11:46.916",
+      "timestamp": 7906.916,
+      "type": "shot"
+    },
+    {
+      "number": 139,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00139.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00139.jpg",
+      "timecode": "02:15:31.291",
+      "timestamp": 8131.291,
+      "type": "shot"
+    },
+    {
+      "number": 140,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00140.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00140.jpg",
+      "timecode": "02:15:51.166",
+      "timestamp": 8151.166,
+      "type": "shot"
+    },
+    {
+      "number": 141,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00141.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00141.jpg",
+      "timecode": "02:16:12.916",
+      "timestamp": 8172.916,
+      "type": "shot"
+    },
+    {
+      "number": 142,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00142.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00142.jpg",
+      "timecode": "02:17:09.290",
+      "timestamp": 8229.291,
+      "type": "shot"
+    },
+    {
+      "number": 143,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00143.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00143.jpg",
+      "timecode": "02:17:25.332",
+      "timestamp": 8245.332667,
+      "type": "shot"
+    },
+    {
+      "number": 144,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00144.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00144.jpg",
+      "timecode": "02:17:28.499",
+      "timestamp": 8248.499333,
+      "type": "shot"
+    },
+    {
+      "number": 145,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00145.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00145.jpg",
+      "timecode": "02:17:35.749",
+      "timestamp": 8255.749333,
+      "type": "shot"
+    },
+    {
+      "number": 146,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00146.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00146.jpg",
+      "timecode": "02:18:02.082",
+      "timestamp": 8282.082667,
+      "type": "shot"
+    },
+    {
+      "number": 147,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00147.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00147.jpg",
+      "timecode": "02:18:36.540",
+      "timestamp": 8316.541,
+      "type": "shot"
+    },
+    {
+      "number": 148,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00148.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00148.jpg",
+      "timecode": "02:19:08.707",
+      "timestamp": 8348.707667,
+      "type": "shot"
+    },
+    {
+      "number": 149,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00149.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00149.jpg",
+      "timecode": "02:19:58.999",
+      "timestamp": 8398.999333,
+      "type": "shot"
+    },
+    {
+      "number": 150,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00150.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00150.jpg",
+      "timecode": "02:20:47.540",
+      "timestamp": 8447.541,
+      "type": "shot"
+    },
+    {
+      "number": 151,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00151.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00151.jpg",
+      "timecode": "02:20:53.249",
+      "timestamp": 8453.249333,
+      "type": "shot"
+    },
+    {
+      "number": 152,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00152.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00152.jpg",
+      "timecode": "02:21:00.082",
+      "timestamp": 8460.082667,
+      "type": "shot"
+    },
+    {
+      "number": 153,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00153.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00153.jpg",
+      "timecode": "02:21:01.749",
+      "timestamp": 8461.749333,
+      "type": "shot"
+    },
+    {
+      "number": 154,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00154.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00154.jpg",
+      "timecode": "02:21:03.874",
+      "timestamp": 8463.874333,
+      "type": "shot"
+    },
+    {
+      "number": 155,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00155.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00155.jpg",
+      "timecode": "02:21:05.499",
+      "timestamp": 8465.499333,
+      "type": "shot"
+    },
+    {
+      "number": 156,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00156.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00156.jpg",
+      "timecode": "02:21:16.249",
+      "timestamp": 8476.249333,
+      "type": "shot"
+    },
+    {
+      "number": 157,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00157.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00157.jpg",
+      "timecode": "02:22:42.707",
+      "timestamp": 8562.707667,
+      "type": "shot"
+    },
+    {
+      "number": 158,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00158.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00158.jpg",
+      "timecode": "02:24:09.790",
+      "timestamp": 8649.791,
+      "type": "shot"
+    },
+    {
+      "number": 159,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00159.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00159.jpg",
+      "timecode": "02:26:23.707",
+      "timestamp": 8783.707667,
+      "type": "shot"
+    },
+    {
+      "number": 160,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00160.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00160.jpg",
+      "timecode": "02:27:16.374",
+      "timestamp": 8836.374333,
+      "type": "shot"
+    },
+    {
+      "number": 161,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00161.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00161.jpg",
+      "timecode": "02:27:41.707",
+      "timestamp": 8861.707667,
+      "type": "shot"
+    },
+    {
+      "number": 162,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00162.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00162.jpg",
+      "timecode": "02:27:57.207",
+      "timestamp": 8877.207667,
+      "type": "shot"
+    },
+    {
+      "number": 163,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00163.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00163.jpg",
+      "timecode": "02:28:37.582",
+      "timestamp": 8917.582667,
+      "type": "shot"
+    },
+    {
+      "number": 164,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00164.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00164.jpg",
+      "timecode": "02:29:15.457",
+      "timestamp": 8955.457667,
+      "type": "shot"
+    },
+    {
+      "number": 165,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00165.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00165.jpg",
+      "timecode": "02:29:47.332",
+      "timestamp": 8987.332667,
+      "type": "shot"
+    },
+    {
+      "number": 166,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00166.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00166.jpg",
+      "timecode": "02:29:59.540",
+      "timestamp": 8999.541,
+      "type": "shot"
+    },
+    {
+      "number": 167,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00167.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00167.jpg",
+      "timecode": "02:30:16.624",
+      "timestamp": 9016.624333,
+      "type": "shot"
+    },
+    {
+      "number": 168,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00168.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00168.jpg",
+      "timecode": "02:30:51.457",
+      "timestamp": 9051.457667,
+      "type": "shot"
+    },
+    {
+      "number": 169,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00169.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00169.jpg",
+      "timecode": "02:30:58.290",
+      "timestamp": 9058.291,
+      "type": "shot"
+    },
+    {
+      "number": 170,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00170.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00170.jpg",
+      "timecode": "02:31:02.707",
+      "timestamp": 9062.707667,
+      "type": "shot"
+    },
+    {
+      "number": 171,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00171.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00171.jpg",
+      "timecode": "02:31:09.457",
+      "timestamp": 9069.457667,
+      "type": "shot"
+    },
+    {
+      "number": 172,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00172.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00172.jpg",
+      "timecode": "02:31:19.790",
+      "timestamp": 9079.791,
+      "type": "shot"
+    },
+    {
+      "number": 173,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00173.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00173.jpg",
+      "timecode": "02:31:37.874",
+      "timestamp": 9097.874333,
+      "type": "shot"
+    },
+    {
+      "number": 174,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00174.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00174.jpg",
+      "timecode": "02:32:01.124",
+      "timestamp": 9121.124333,
+      "type": "shot"
+    },
+    {
+      "number": 175,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00175.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00175.jpg",
+      "timecode": "02:32:10.957",
+      "timestamp": 9130.957667,
+      "type": "shot"
+    },
+    {
+      "number": 176,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00176.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00176.jpg",
+      "timecode": "02:32:15.540",
+      "timestamp": 9135.541,
+      "type": "shot"
+    },
+    {
+      "number": 177,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00177.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00177.jpg",
+      "timecode": "02:32:35.124",
+      "timestamp": 9155.124333,
+      "type": "shot"
+    },
+    {
+      "number": 178,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00178.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00178.jpg",
+      "timecode": "02:33:10.957",
+      "timestamp": 9190.957667,
+      "type": "shot"
+    },
+    {
+      "number": 179,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00179.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00179.jpg",
+      "timecode": "02:33:14.332",
+      "timestamp": 9194.332667,
+      "type": "shot"
+    },
+    {
+      "number": 180,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00180.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00180.jpg",
+      "timecode": "02:33:15.332",
+      "timestamp": 9195.332667,
+      "type": "shot"
+    },
+    {
+      "number": 181,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00181.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00181.jpg",
+      "timecode": "02:33:27.207",
+      "timestamp": 9207.207667,
+      "type": "shot"
+    },
+    {
+      "number": 182,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00182.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00182.jpg",
+      "timecode": "02:34:12.582",
+      "timestamp": 9252.582667,
+      "type": "shot"
+    },
+    {
+      "number": 183,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00183.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00183.jpg",
+      "timecode": "02:34:26.707",
+      "timestamp": 9266.707667,
+      "type": "shot"
+    },
+    {
+      "number": 184,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00184.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00184.jpg",
+      "timecode": "02:36:18.915",
+      "timestamp": 9378.916,
+      "type": "shot"
+    },
+    {
+      "number": 185,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00185.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00185.jpg",
+      "timecode": "02:38:24.749",
+      "timestamp": 9504.749333,
+      "type": "shot"
+    },
+    {
+      "number": 186,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00186.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00186.jpg",
+      "timecode": "02:39:03.790",
+      "timestamp": 9543.791,
+      "type": "shot"
+    },
+    {
+      "number": 187,
+      "thumbnail": "/static/frames/silver-globe/thumbs/frame_00187.jpg",
+      "full": "/static/frames/silver-globe/full/frame_00187.jpg",
+      "timecode": "02:40:59.624",
+      "timestamp": 9659.624333,
+      "type": "shot"
+    }
+  ]
+}
