@@ -8,14 +8,14 @@ from fastapi.responses import JSONResponse
 
 router = APIRouter()
 
-@router.get("/")
-async def get_frames():
+@router.get("/{movie}")
+async def get_frames(movie: str):
     """
-    Return the frames manifest
+    Return the frames manifest for a specific movie
     """
     manifest_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
-        'static', 'frames', 'manifest.json'
+        'static', 'frames', movie, 'manifest.json'
     )
     
     if os.path.exists(manifest_path):
@@ -24,4 +24,3 @@ async def get_frames():
         return manifest
     
     return {"frames": [], "movie_name": None, "total_frames": 0}
-

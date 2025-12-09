@@ -51,6 +51,15 @@ async def the_brutalist():
             return f.read()
     return "<h1>Not found</h1>"
 
+# Aguirre page
+@app.get("/aguirre", response_class=HTMLResponse)
+async def aguirre():
+    html_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "static", "aguirre.html")
+    if os.path.exists(html_file):
+        with open(html_file, "r") as f:
+            return f.read()
+    return "<h1>Not found</h1>"
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

@@ -1,4 +1,4 @@
-// VIBECODE Frame Grid Viewer
+// FRAMES - Frame Grid Viewer
 
 const frameGrid = document.getElementById('frame-grid');
 const lightbox = document.getElementById('lightbox');
@@ -10,13 +10,16 @@ const lightboxPrev = document.getElementById('lightbox-prev');
 const lightboxNext = document.getElementById('lightbox-next');
 const movieTitle = document.getElementById('movie-title');
 
+// Get movie slug from body data attribute
+const movieSlug = document.body.dataset.movie || 'the-brutalist';
+
 let frames = [];
 let currentFrameIndex = 0;
 
-// Load frames from the frames directory
+// Load frames from the API
 async function loadFrames() {
     try {
-        const response = await fetch('/api/frames/');
+        const response = await fetch(`/api/frames/${movieSlug}`);
         const data = await response.json();
         
         if (data.frames && data.frames.length > 0) {
@@ -39,7 +42,7 @@ function showEmptyState() {
         <div class="empty-state">
             <p>No frames found.</p>
             <p>Extract frames from a video using:</p>
-            <code>python3 extract_frames.py your_video.mp4</code>
+            <code>python3 extract_shots.py your_video.mp4</code>
         </div>
     `;
 }
@@ -74,7 +77,6 @@ function closeLightbox() {
 
 function updateLightboxImage() {
     const frame = frames[currentFrameIndex];
-    // Use full-size if available, otherwise thumbnail
     lightboxImg.src = frame.full || frame.thumbnail;
     lightboxFrameNum.textContent = `Frame ${frame.number}`;
     lightboxTimecode.textContent = frame.timecode;
